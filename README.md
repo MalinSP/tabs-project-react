@@ -12,7 +12,7 @@ To start project
 
 Completed [project](https://tabs-jobs-react-by-malina.netlify.app/)
 
-##### In action [here](https://portfolio-strapi-project-by-malina.netlify.app/)
+#### In action [here](https://portfolio-strapi-project-by-malina.netlify.app/)
 
 ---
 
